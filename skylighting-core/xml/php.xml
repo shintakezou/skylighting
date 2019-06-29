@@ -11032,7 +11032,7 @@ Changes:
       <itemData name="String" defStyleNum="dsString" />
       <itemData name="Comment" defStyleNum="dsComment" />
       <itemData name="Special Variable" defStyleNum="dsKeyword" color="#5555FF" selColor="#ffffff" bold="1" italic="0" spellChecking="false" />
-      <itemData name="Variable" defStyleNum="dsKeyword" color="#5555FF" selColor="#ffffff" bold="0" italic="0" spellChecking="false" />
+      <itemData name="Variable" defStyleNum="dsVariable" />
       <itemData name="Library Constant" defStyleNum="dsKeyword" bold="1" spellChecking="false" />
       <itemData name="Constant" defStyleNum="dsKeyword" bold="0" spellChecking="false" />
       <itemData name="Control Structures" defStyleNum="dsKeyword" color="#A1A100" selColor="#ffffff" bold="0" italic="0" spellChecking="false" />
